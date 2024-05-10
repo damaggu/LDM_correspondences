@@ -1,0 +1,9 @@
+numpy
+torch
+tqdm
+diffusers
+pynvml
+wandb
+torchvision
+albumentations
+transformers
